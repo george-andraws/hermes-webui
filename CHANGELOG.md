@@ -3,6 +3,11 @@
 
 ## [Unreleased]
 
+### Fixed
+
+- Chat uploads with the same filename in one session now keep distinct attachment
+  files instead of overwriting the earlier upload.
+
 ## [v0.51.134] — 2026-05-25 — Release DF (stage-batch16 — single-PR Windows path defaults)
 
 ### Fixed
